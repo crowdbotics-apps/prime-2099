@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT prime_2099.wsgi:application
